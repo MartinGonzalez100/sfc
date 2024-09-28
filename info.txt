@@ -1,0 +1,32 @@
+deploy
+
+-railway
+--desde git hubb
+--frontend
+--backend
+--bases de datos
+--5 a 7 usd desde el inicio
+
+-render.com
+--app
+--base de datos
+--inicio gratuito luego 19 usd
+
+-vercel
+--app
+--base de datos
+--inicio gratuito luego 19 usd
+--perfeccionado en nodejs-nextjs
+
+-neon
+--es un serverless!!
+--bases de datos
+
+-supabase
+--app as a services
+--base de datos gratis al inicio
+--back end ya con coste
+--desde 25 usd
+
+-cpanel
+--generalmente, los recursos se comparten con todos los usuarios, pero son gratis, depende de la utilizacion en cada momento, pero es bueno para iniciar.
